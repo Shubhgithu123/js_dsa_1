@@ -243,4 +243,6 @@ function findDivisor (num) {
 
 console.log(findDivisor(6));
 
-//executed git reset --hard  to check or try to lost all changes
+//executed git reset --hard  to check or try to lost all changes 
+
+//fourth change
